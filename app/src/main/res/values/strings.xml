@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question">Question</string>
+    <string name="quiz_count">Q%d</string>
+    <string name="btn_answer">answer</string>
+
+    <string name="result_title">結果</string>
+    <string name="result_score">%d / 5</string>
+    <string name="result_total_score">トータルスコア : %d</string>
+    <string name="btn_return">もどる</string>
+</resources>
